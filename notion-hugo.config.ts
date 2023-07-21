@@ -4,6 +4,7 @@ const userConfig: UserConfig = {
     mount: {
         manual: false,
         page_url: 'https://www.notion.so/Notion-DoIt-fffab2a6442643f6985c3f0a0ddf14c4?pvs=4',
+        pages: [
             // {
             //     page_id: '<page_id>',
             //     target_folder: 'path/relative/to/content/folder'

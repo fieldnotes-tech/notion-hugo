@@ -1,4 +1,4 @@
-baseURL = "https://staging.fieldnotes.tech/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://fieldnotes-tech.github.io"
+languageCode = "en-gb"
+title = "fieldnotes.tech"
 theme = "ananke"

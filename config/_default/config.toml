@@ -1,4 +1,4 @@
-baseURL = "https://fieldnotes-tech.github.io"
+baseURL = "https://fieldnotes-tech.github.io/notion-hugo"
 languageCode = "en-gb"
 title = "fieldnotes.tech"
 theme = "ananke"
